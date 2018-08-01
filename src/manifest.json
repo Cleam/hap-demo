@@ -1,10 +1,10 @@
 {
-  "package": "com.application.demo",
-  "name": "demo1",
+  "package": "com.eastday.toutiao",
+  "name": "东方头条",
   "versionName": "1.0.0",
   "versionCode": "1",
   "minPlatformVersion": "101",
-  "icon": "/Common/logo.png",
+  "icon": "/Common/dftt2.png",
   "features": [
     { "name": "system.prompt" },
     { "name": "system.router" },
@@ -14,7 +14,7 @@
     { "origin": "*" }
   ],
   "config": {
-    "logLevel": "off"
+    "logLevel": "debug"
   },
   "router": {
     "entry": "Demo",
