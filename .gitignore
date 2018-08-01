@@ -1,0 +1,10 @@
+node_modules
+/dist
+/build
+.idea/
+logs
+*.log
+*.swp
+.DS_Store
+npm-debug.log*
+.vscode/
